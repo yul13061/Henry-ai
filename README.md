@@ -1,5 +1,6 @@
 # Henry-ai
-Disclamer If there is anything wrong with any of my ai and and legal actions just tell me and put a complaint or pull request please I do not want to dea; with this early in life.
+Disclamer If there is anything wrong with any of my ai and and legal actions just tell me and put a complaint or pull request please I do not want to dea; with this early in life. This is not for commercial use and I respect the companys.
+
 
 This is a dream ai created by a 13 year old to accomplish a goal of making a custom ai for everyone.
 Disclamer some parts of the code has been fixed by an ai so It might look ai
