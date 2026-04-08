@@ -1,3 +1,6 @@
+# socials
+Discord server:https://discord.gg/DeBzAVDc
+TBC
 # Henry-ai
 Disclamer If there is anything wrong with any of my ai and and legal actions just tell me and put a complaint or pull request please I do not want to dea; with this early in life. This is not for commercial use and I respect the companys.
 
