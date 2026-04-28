@@ -15,7 +15,7 @@ I’m interested in coding, tech, and changing the world that sees kids as a dev
 This is a dream ai created by a 13 year old to accomplish a goal of making a custom ai for everyone.
 Disclamer some parts of the code has been fixed by an ai so It might look ai
 I'm working on an offline version for 5 years since I was 8. To celebrate the 5 years of henry I decided to redisign the whole system to interface type of ai like Chat GPT. It started as a imagination of a 8 year old. When I saw the news in korea about ai talking to a human like a human. And I thought can I make it? As of today if I can tell my 8 yearold self again I'll tell him thats it's possible I remember the day it was exactly june 13th 2021 when chat gpt were starting out. I told my mum that AI will take over the world after I watched a teen titans cartoon about robot taking over. Now Humanoids are a thing and chat GPT can generate images. And the new Iphone has a thing called dinamic island. When I was 9 I learnt coding on scratch for an afterschool class and I thought can I make chat GPT with this? When I was 10 I learnt that python isn't a scary hackers tool and started learning on crash course on youtube after I moved to NZ When I was 11 I was growing up I started using API keys to test out my dreams. Now I'm making a fully custom AI on my laprop using python. This sounds a bit weird but I used write down everything that I thought on a book so I can teach it to Henry. This Version (easternmontr 3) uses a GROQs api but in june 13th 2026 I will introduce the world my creation on custom ai with out any data centers. 
-
+My laptop is broken so I'll continue on my code after I get a new one
 
 Hello and welcome to the Henry
 Ai
